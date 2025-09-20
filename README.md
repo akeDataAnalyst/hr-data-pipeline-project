@@ -16,7 +16,7 @@ Manual data pulls and reporting are time-consuming and prone to human error. Thi
 
 The pipeline follows a classic ETL workflow to process data from source to a unified data warehouse. 
 
-[Image of a data pipeline diagram]
+
 
 
 1.  **Extract:** Raw data is pulled from three simulated sources: an Applicant Tracking System (ATS), a Human Resources Information System (HRIS), and an Employee Engagement Survey tool.
