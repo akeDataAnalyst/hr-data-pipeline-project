@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment folder
+venv/
+.venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated data files (optional but recommended)
+data/
+*.csv
