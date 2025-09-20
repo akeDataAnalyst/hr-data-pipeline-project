@@ -45,3 +45,21 @@ The unified dataset enables powerful analytics that would otherwise be difficult
 * **Employee Trends:** Analyzing **employee tenure** and its relationship with performance to understand retention patterns.
 * **Engagement Analysis:** Exploring the correlation between **engagement survey scores** and key outcomes like **attrition rates** or promotions.
 
+***
+
+### **Key Visualizations & Insights**
+
+The unified dataset was used to build an interactive dashboard in Looker Studio, bringing key HR metrics to life. This dashboard provides a clear, accessible view of the data, enabling stakeholders to quickly identify trends and make data-driven decisions.
+
+Explore the live dashboard and interact with the data here:
+
+[https://lookerstudio.google.com/reporting/b5003a8f-feee-47d6-bbdf-89e96c54f95f]
+
+The dashboard’s visualizations reveal key insights, including:
+
+* **Hiring Trends:** The People Tech department has the longest time-to-hire, while Engineering has the shortest, indicating a need for process optimization in the People Tech team.
+
+* **Employee Retention:** HR Generalists and Data Analysts have the longest average tenure, suggesting high retention in these roles.
+
+* **Compensation vs. Engagement:** The Product department has the highest engagement score, while Engineering has the lowest despite having the highest average compensation. This suggests that compensation alone is not a primary driver of engagement.
+
